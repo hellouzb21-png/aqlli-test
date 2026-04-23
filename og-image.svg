@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="50%" y="40%" text-anchor="middle" font-family="Arial Black,sans-serif" font-weight="900" font-size="110" fill="white">AQLLI-TEST</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="44" fill="white" fill-opacity="0.95">Think like a coder</text>
+  <text x="50%" y="72%" text-anchor="middle" font-family="Arial,sans-serif" font-weight="600" font-size="32" fill="white" fill-opacity="0.75">96+ questions &#183; 10 topics &#183; Free &#183; No signup</text>
+</svg>
